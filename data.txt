@@ -3,6 +3,7 @@
   {"name": "Alice", "age": 25},
   {"name": "Bob", "age": 22},
   {"name": "john", "age": 24},
-  {"name": "aryan","age": 20}
+  {"name": "aryan","age": 20},
+  {"name": "Nikhil","age": 26}
 
 ]
